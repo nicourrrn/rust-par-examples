@@ -1,0 +1,7 @@
+[workspace]
+members = [
+   "rust_rayon_matrix",
+   "rust_web_servers",
+   "rust_web_client"
+]
+resolver = '2'
